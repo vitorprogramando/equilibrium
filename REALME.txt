@@ -1,0 +1,7 @@
+banco de dado com xamp
+primeiro: cadastro_db
+segundo: cadastro
+terceiro: id/int primary/autoincrement
+nome: varchar:255
+email: varchar:255
+assinatura: text
